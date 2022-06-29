@@ -7,7 +7,7 @@ anchor_escrow = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "https://rpc-mainnet-fork.dappio.xyz"
 wallet = "/Users/admin/.config/solana/id.json"
 
 [scripts]
